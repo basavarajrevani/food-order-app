@@ -1,4 +1,4 @@
-# DTL Food Delivery Chatbot
+# Food Delivery Chatbot
 
 A modern web-based chatbot application for food delivery services built with Node.js, Express, and MongoDB.
 
